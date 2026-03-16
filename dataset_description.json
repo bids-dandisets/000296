@@ -1,0 +1,17 @@
+{
+    "Name": "Drosophila visual neural responses to stochastic stimuli",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Associated Reference Publication: Excitatory and inhibitory neural dynamics jointly tune motion detection\nNeurons integrate excitatory and inhibitory signals to produce their outputs, but the role of input timing in this integration remains poorly understood. Motion detection is a paradigmatic example of this integration, since theories of motion detection rely on different delays in visual signals. These delays allow circuits to compare scenes at different times to calculate the direction and speed of motion. Different motion detection circuits have different velocity sensitivity, but it remains untested how the response dynamics of individual cell types drive this tuning. Here, we sped up or slowed down specific neuron types in Drosophila\u2019s motion detection circuit by manipulating ion channel expression. Altering the dynamics of individual neuron types upstream of motion detectors increased their sensitivity to fast or slow visual motion, exposing distinct roles for excitatory and inhibitory dynamics in tuning directional signals, including a role for the amacrine cell CT1. A circuit model constrained by functional data and anatomy qualitatively reproduced the observed tuning changes. Overall, these results reveal how excitatory and inhibitory dynamics together tune a canonical circuit computation.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
